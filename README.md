@@ -1,4 +1,4 @@
-<div align="center">
+
 
 # Gabriel Rodrigues Barbosa
 
@@ -10,7 +10,7 @@ Transformo dados em análises, modelos e soluções que ajudam a compreender pro
 [![E-mail](https://img.shields.io/badge/E--mail-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriellrbarbosa@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Projetos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabreverso)
 
-</div>
+
 
 ---
 
@@ -196,10 +196,10 @@ Tenho interesse em oportunidades de estágio ou início de carreira nas áreas d
 
 ---
 
-<div align="center">
+
 
 ### Obrigado pela visita!
 
 Estou sempre aberto a aprender, colaborar em projetos e conversar sobre oportunidades na área de dados.
 
-</div>
+
